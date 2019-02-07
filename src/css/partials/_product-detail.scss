@@ -220,7 +220,6 @@
 .product-detail-thumbnail-container {
 	border: 1px solid #CCC;
 	border-radius: $border-radius;
-	height: calc(25% - 9px);
 	margin-bottom: 12px;
 	overflow: hidden;
 
@@ -257,7 +256,6 @@
 }
 
 .product-detail-image-column {
-	display: flex;
 	position: relative;
 
 	.sticker {
